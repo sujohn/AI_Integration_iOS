@@ -15,3 +15,9 @@ AI tools Integration in iOS app
  - **Cloud-Based AI (APIs):** Connect to external services like OpenAI, Google Gemini, or Llama via web APIs for complex tasks (e.g., advanced chatbots).
  - **Hybrid Approach:** Combine on-device processing for speed with cloud models for advanced capabilities.
 
+# AI Features
+ - **Personalization:** Tailoring content and experiences to individual users.
+ - **Chatbots & Virtual Assistants:** Conversational AI for user support and interaction.
+ - **Image/Object Recognition:** Identifying objects, faces, or text in photos.
+ - **Natural Language Processing (NLP):** Understanding and generating human language for features like predictive text. 
+
